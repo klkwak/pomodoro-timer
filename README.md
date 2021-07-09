@@ -12,3 +12,4 @@ Languages, frameworks and packages used:
 - Bootstrap
 
 This project has not yet been deployed - see below for a preview of frontend design:
+![06ddc6bb0f6b5add9db441447000e59c-o-initial-screen](https://user-images.githubusercontent.com/73764394/125139160-0a979580-e0de-11eb-99b3-3955a340edbb.png)
